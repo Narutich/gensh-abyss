@@ -1,0 +1,124 @@
+--------------------------
+Tier: SS+
+--------------------------
+Name: Ayaka
+Role: Main DPS
+Name: Bennett
+Role: Utility
+Name: Ganyu
+Role: Main DPS
+Name: Hu Tao
+Role: Main DPS
+Name: Kazuha
+Role: Utility
+Name: Raiden
+Role: Main DPS
+Name: Xiangling
+Role: Sub DPS
+Name: Xingqiu
+Role: Sub DPS
+Name: Yelan
+Role: Sub DPS
+Name: Zhongli
+Role: Utility
+--------------------------
+Tier: S+
+--------------------------
+Name: Albedo
+Role: Sub DPS
+Name: Ayato
+Role: Main DPS
+Name: Childe
+Role: Main DPS
+Name: Diona
+Role: Utility
+Name: Eula
+Role: Main DPS
+Name: Gorou
+Role: Utility
+Name: Heizou
+Role: Sub DPS
+Name: Itto
+Role: Main DPS
+Name: Jean
+Role: Utility
+Name: Kokomi
+Role: Utility
+Name: Mona
+Role: Utility
+Name: Sara
+Role: Utility
+Name: Shenhe
+Role: Utility
+Name: Sucrose
+Role: Utility
+Name: Venti
+Role: Sub DPS
+Name: Xiao
+Role: Main DPS
+Name: Yoimiya
+Role: Main DPS
+Name: Yun Jin
+Role: Utility
+--------------------------
+Tier: S
+--------------------------
+Name: Beidou
+Role: Sub DPS
+Name: Diluc
+Role: Main DPS
+Name: Fischl
+Role: Sub DPS
+Name: Klee
+Role: Main DPS
+Name: Qiqi
+Role: Utility
+Name: Rosaria
+Role: Utility
+Name: Sayu
+Role: Utility
+Name: Traveler (Electro)
+Role: Utility
+Name: Yae Miko
+Role: Sub DPS
+Name: Yanfei
+Role: Main DPS
+--------------------------
+Tier: A
+--------------------------
+Name: Barbara
+Role: Utility
+Name: Chongyun
+Role: Utility
+Name: Keqing
+Role: Main DPS
+Name: Kuki Shinobu
+Role: Utility
+Name: Ningguang
+Role: Main DPS
+Name: Noelle
+Role: Main DPS
+--------------------------
+Tier: B
+--------------------------
+Name: Kaeya
+Role: Sub DPS
+Name: Lisa
+Role: Sub DPS
+Name: Razor
+Role: Main DPS
+Name: Thoma
+Role: Utility
+Name: Xinyan
+Role: Utility
+--------------------------
+Tier: C
+--------------------------
+Name: Aloy
+Role: Sub DPS
+Name: Amber
+Role: Sub DPS
+Name: Traveler (Anemo)
+Role: Sub DPS
+Name: Traveler (Geo)
+Role: Sub DPS

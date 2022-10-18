@@ -1,0 +1,89 @@
+Chamber #1
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_26120201_35.png
+Mob_name: Winged Cryoshroom
+https://genshin.honeyhunterworld.com//img/m_20011101_35.png
+Mob_name: Large Hydro Slime
+https://genshin.honeyhunterworld.com//img/m_26090701_35.png
+Mob_name: Stretchy Pyro Fungus
+https://genshin.honeyhunterworld.com//img/m_26090901_35.png
+Mob_name: Stretchy Geo Fungus
+https://genshin.honeyhunterworld.com//img/m_26090401_35.png
+Mob_name: Whirling Electro Fungus
+https://genshin.honeyhunterworld.com//img/m_26090501_35.png
+Mob_name: Whirling Cryo Fungus
+https://genshin.honeyhunterworld.com//img/m_26090101_35.png
+Mob_name: Floating Hydro Fungus
+https://genshin.honeyhunterworld.com//img/m_26090201_35.png
+Mob_name: Floating Dendro Fungus
+https://genshin.honeyhunterworld.com//img/m_20011001_35.png
+Mob_name: Hydro Slime
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_25310101_35.png
+Mob_name: Eremite Desert Clearwater
+https://genshin.honeyhunterworld.com//img/m_25210501_35.png
+Mob_name: Eremite Sword-Dancer
+https://genshin.honeyhunterworld.com//img/m_25210401_35.png
+Mob_name: Eremite Linebreaker
+https://genshin.honeyhunterworld.com//img/m_25210301_35.png
+Mob_name: Eremite Ravenbeak Halberdier
+https://genshin.honeyhunterworld.com//img/m_25210201_35.png
+Mob_name: Eremite Crossbow
+https://genshin.honeyhunterworld.com//img/m_25210101_35.png
+Mob_name: Eremite Axe Vanguard
+Chamber #2
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_21020101_35.png
+Mob_name: Wooden Shieldwall Mitachurl
+https://genshin.honeyhunterworld.com//img/m_21020201_35.png
+Mob_name: Blazing Axe Mitachurl
+https://genshin.honeyhunterworld.com//img/m_21020301_35.png
+Mob_name: Rock Shieldwall Mitachurl
+https://genshin.honeyhunterworld.com//img/m_21020701_35.png
+Mob_name: Crackling Axe Mitachurl
+https://genshin.honeyhunterworld.com//img/m_21030401_35.png
+Mob_name: Geo Samachurl
+https://genshin.honeyhunterworld.com//img/m_21030501_35.png
+Mob_name: Cryo Samachurl
+https://genshin.honeyhunterworld.com//img/m_21010301_35.png
+Mob_name: Wooden Shield Hilichurl Guard
+https://genshin.honeyhunterworld.com//img/m_21010701_35.png
+Mob_name: Hilichurl Berserker
+https://genshin.honeyhunterworld.com//img/m_21010501_35.png
+Mob_name: Pyro Hilichurl Shooter
+https://genshin.honeyhunterworld.com//img/m_21010901_35.png
+Mob_name: Cryo Hilichurl Shooter
+https://genshin.honeyhunterworld.com//img/m_21011001_35.png
+Mob_name: Electro Hilichurl Shooter
+https://genshin.honeyhunterworld.com//img/m_21010601_35.png
+Mob_name: Hilichurl Grenadier
+https://genshin.honeyhunterworld.com//img/m_21011301_35.png
+Mob_name: Cryo Hilichurl Grenadier
+https://genshin.honeyhunterworld.com//img/m_21011601_35.png
+Mob_name: Electro Hilichurl Grenadier
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_22010301_35.png
+Mob_name: Hydro Abyss Mage
+https://genshin.honeyhunterworld.com//img/m_21030201_35.png
+Mob_name: Dendro Samachurl
+https://genshin.honeyhunterworld.com//img/m_20011101_35.png
+Mob_name: Large Hydro Slime
+https://genshin.honeyhunterworld.com//img/m_20011301_35.png
+Mob_name: Large Pyro Slime
+Chamber #3
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_26120301_35.png
+Mob_name: Grounded Hydroshroom
+https://genshin.honeyhunterworld.com//img/m_26120101_35.png
+Mob_name: Winged Dendroshroom
+https://genshin.honeyhunterworld.com//img/m_26090401_35.png
+Mob_name: Whirling Electro Fungus
+https://genshin.honeyhunterworld.com//img/m_26090201_35.png
+Mob_name: Floating Dendro Fungus
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_25310201_35.png
+Mob_name: Eremite Sunfrost
+https://genshin.honeyhunterworld.com//img/m_25310301_35.png
+Mob_name: Eremite Daythunder
+https://genshin.honeyhunterworld.com//img/m_25210401_35.png
+Mob_name: Eremite Linebreaker

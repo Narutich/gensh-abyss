@@ -1,0 +1,34 @@
+Chamber #1
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_20010501_35.png
+Mob_name: Electro Slime
+https://genshin.honeyhunterworld.com//img/m_20010601_35.png
+Mob_name: Large Electro Slime
+https://genshin.honeyhunterworld.com//img/m_20010701_35.png
+Mob_name: Mutant Electro Slime
+Chamber #2
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_21010201_35.png
+Mob_name: Hilichurl Fighter
+https://genshin.honeyhunterworld.com//img/m_21010301_35.png
+Mob_name: Wooden Shield Hilichurl Guard
+https://genshin.honeyhunterworld.com//img/m_21010401_35.png
+Mob_name: Hilichurl Shooter
+https://genshin.honeyhunterworld.com//img/m_21010601_35.png
+Mob_name: Hilichurl Grenadier
+https://genshin.honeyhunterworld.com//img/m_21020101_35.png
+Mob_name: Wooden Shieldwall Mitachurl
+https://genshin.honeyhunterworld.com//img/m_21020201_35.png
+Mob_name: Blazing Axe Mitachurl
+Chamber #3
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_21010401_35.png
+Mob_name: Hilichurl Shooter
+https://genshin.honeyhunterworld.com//img/m_21020101_35.png
+Mob_name: Wooden Shieldwall Mitachurl
+https://genshin.honeyhunterworld.com//img/m_20010601_35.png
+Mob_name: Large Electro Slime
+https://genshin.honeyhunterworld.com//img/m_20010701_35.png
+Mob_name: Mutant Electro Slime
+https://genshin.honeyhunterworld.com//img/m_23030101_35.png
+Mob_name: Fatui Electro Cicin Mage

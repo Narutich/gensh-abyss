@@ -1,0 +1,45 @@
+Chamber #1
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_24030101_35.png
+Mob_name: Ruin Drake: Skywatch
+https://genshin.honeyhunterworld.com//img/m_24030201_35.png
+Mob_name: Ruin Drake: Earthguard
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_23010301_35.png
+Mob_name: Fatui Skirmisher – Electrohammer Vanguard
+https://genshin.honeyhunterworld.com//img/m_23010601_35.png
+Mob_name: Fatui Skirmisher – Pyroslinger Bracer
+https://genshin.honeyhunterworld.com//img/m_25310201_35.png
+Mob_name: Eremite Sunfrost
+https://genshin.honeyhunterworld.com//img/m_25310101_35.png
+Mob_name: Eremite Desert Clearwater
+https://genshin.honeyhunterworld.com//img/m_25210201_35.png
+Mob_name: Eremite Crossbow
+Chamber #2
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_23050101_35.png
+Mob_name: Mirror Maiden
+https://genshin.honeyhunterworld.com//img/m_23030101_35.png
+Mob_name: Fatui Electro Cicin Mage
+https://genshin.honeyhunterworld.com//img/m_25210201_35.png
+Mob_name: Eremite Crossbow
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_26050101_35.png
+Mob_name: Primo Geovishap
+Chamber #3
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_26120101_35.png
+Mob_name: Winged Dendroshroom
+https://genshin.honeyhunterworld.com//img/m_26120201_35.png
+Mob_name: Winged Cryoshroom
+https://genshin.honeyhunterworld.com//img/m_26120301_35.png
+Mob_name: Grounded Hydroshroom
+https://genshin.honeyhunterworld.com//img/m_26050601_35.png
+Mob_name: Primordial Bathysmal Vishap
+https://genshin.honeyhunterworld.com//img/m_60510_35.png
+Mob_name: Rimebiter Bathysmal Vishap Hatchling
+https://genshin.honeyhunterworld.com//img/m_60511_35.png
+Mob_name: Bolteater Bathysmal Vishap Hatchling
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_26110101_35.png
+Mob_name: Jadeplume Terrorshroom

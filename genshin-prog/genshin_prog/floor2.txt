@@ -1,0 +1,26 @@
+Chamber #1
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_20010501_35.png
+Mob_name: Electro Slime
+https://genshin.honeyhunterworld.com//img/m_20010601_35.png
+Mob_name: Large Electro Slime
+https://genshin.honeyhunterworld.com//img/m_20010701_35.png
+Mob_name: Mutant Electro Slime
+Chamber #2
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_20011001_35.png
+Mob_name: Hydro Slime
+https://genshin.honeyhunterworld.com//img/m_20011101_35.png
+Mob_name: Large Hydro Slime
+https://genshin.honeyhunterworld.com//img/m_21020201_35.png
+Mob_name: Blazing Axe Mitachurl
+https://genshin.honeyhunterworld.com//img/m_22010301_35.png
+Mob_name: Hydro Abyss Mage
+Chamber #3
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_21030101_35.png
+Mob_name: Hydro Samachurl
+https://genshin.honeyhunterworld.com//img/m_21020201_35.png
+Mob_name: Blazing Axe Mitachurl
+https://genshin.honeyhunterworld.com//img/m_22010301_35.png
+Mob_name: Hydro Abyss Mage

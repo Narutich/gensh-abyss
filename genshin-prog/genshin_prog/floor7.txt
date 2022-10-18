@@ -1,0 +1,45 @@
+Chamber #1
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_23010101_35.png
+Mob_name: Fatui Skirmisher – Cryogunner Legionnaire
+https://genshin.honeyhunterworld.com//img/m_23010201_35.png
+Mob_name: Fatui Skirmisher – Hydrogunner Legionnaire
+https://genshin.honeyhunterworld.com//img/m_23010301_35.png
+Mob_name: Fatui Skirmisher – Electrohammer Vanguard
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_23010101_35.png
+Mob_name: Fatui Skirmisher – Cryogunner Legionnaire
+https://genshin.honeyhunterworld.com//img/m_23010601_35.png
+Mob_name: Fatui Skirmisher – Pyroslinger Bracer
+https://genshin.honeyhunterworld.com//img/m_23010501_35.png
+Mob_name: Fatui Skirmisher – Anemoboxer Vanguard
+Chamber #2
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_23010101_35.png
+Mob_name: Fatui Skirmisher – Cryogunner Legionnaire
+https://genshin.honeyhunterworld.com//img/m_23010401_35.png
+Mob_name: Fatui Skirmisher – Geochanter Bracer
+https://genshin.honeyhunterworld.com//img/m_23010301_35.png
+Mob_name: Fatui Skirmisher – Electrohammer Vanguard
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_23010401_35.png
+Mob_name: Fatui Skirmisher – Geochanter Bracer
+https://genshin.honeyhunterworld.com//img/m_23010601_35.png
+Mob_name: Fatui Skirmisher – Pyroslinger Bracer
+https://genshin.honeyhunterworld.com//img/m_23010501_35.png
+Mob_name: Fatui Skirmisher – Anemoboxer Vanguard
+Chamber #3
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_23010201_35.png
+Mob_name: Fatui Skirmisher – Hydrogunner Legionnaire
+https://genshin.honeyhunterworld.com//img/m_23010301_35.png
+Mob_name: Fatui Skirmisher – Electrohammer Vanguard
+https://genshin.honeyhunterworld.com//img/m_23010501_35.png
+Mob_name: Fatui Skirmisher – Anemoboxer Vanguard
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_23010601_35.png
+Mob_name: Fatui Skirmisher – Pyroslinger Bracer
+https://genshin.honeyhunterworld.com//img/m_23010301_35.png
+Mob_name: Fatui Skirmisher – Electrohammer Vanguard
+https://genshin.honeyhunterworld.com//img/m_23010501_35.png
+Mob_name: Fatui Skirmisher – Anemoboxer Vanguard

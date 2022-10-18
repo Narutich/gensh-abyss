@@ -1,0 +1,37 @@
+Chamber #1
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_22010301_35.png
+Mob_name: Hydro Abyss Mage
+https://genshin.honeyhunterworld.com//img/m_22010201_35.png
+Mob_name: Cryo Abyss Mage
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_22010101_35.png
+Mob_name: Pyro Abyss Mage
+Chamber #2
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_24010101_35.png
+Mob_name: Ruin Guard
+https://genshin.honeyhunterworld.com//img/m_21010901_35.png
+Mob_name: Cryo Hilichurl Shooter
+https://genshin.honeyhunterworld.com//img/m_21010401_35.png
+Mob_name: Hilichurl Shooter
+https://genshin.honeyhunterworld.com//img/m_21010301_35.png
+Mob_name: Wooden Shield Hilichurl Guard
+https://genshin.honeyhunterworld.com//img/m_21010201_35.png
+Mob_name: Hilichurl Fighter
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_24010101_35.png
+Mob_name: Ruin Guard
+https://genshin.honeyhunterworld.com//img/m_21010501_35.png
+Mob_name: Pyro Hilichurl Shooter
+https://genshin.honeyhunterworld.com//img/m_21010701_35.png
+Mob_name: Hilichurl Berserker
+https://genshin.honeyhunterworld.com//img/m_21010601_35.png
+Mob_name: Hilichurl Grenadier
+Chamber #3
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_26020101_35.png
+Mob_name: Cryo Regisvine
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_26020201_35.png
+Mob_name: Pyro Regisvine

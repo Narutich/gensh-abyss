@@ -1,0 +1,40 @@
+Chamber #1
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_20010801_35.png
+Mob_name: Cryo Slime
+https://genshin.honeyhunterworld.com//img/m_20011201_35.png
+Mob_name: Pyro Slime
+https://genshin.honeyhunterworld.com//img/m_21010501_35.png
+Mob_name: Pyro Hilichurl Shooter
+https://genshin.honeyhunterworld.com//img/m_21010901_35.png
+Mob_name: Cryo Hilichurl Shooter
+https://genshin.honeyhunterworld.com//img/m_21010301_35.png
+Mob_name: Wooden Shield Hilichurl Guard
+https://genshin.honeyhunterworld.com//img/m_20010601_35.png
+Mob_name: Large Electro Slime
+https://genshin.honeyhunterworld.com//img/m_20010901_35.png
+Mob_name: Large Cryo Slime
+https://genshin.honeyhunterworld.com//img/m_20011301_35.png
+Mob_name: Large Pyro Slime
+Chamber #2
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_25010301_35.png
+Mob_name: Treasure Hoarders: Pyro Potioneer
+https://genshin.honeyhunterworld.com//img/m_25010401_35.png
+Mob_name: Treasure Hoarders: Hydro Potioneer
+https://genshin.honeyhunterworld.com//img/m_25010501_35.png
+Mob_name: Treasure Hoarders: Electro Potioneer
+https://genshin.honeyhunterworld.com//img/m_25010601_35.png
+Mob_name: Treasure Hoarders: Cryo Potioneer
+https://genshin.honeyhunterworld.com//img/m_25030201_35.png
+Mob_name: Treasure Hoarders: Gravedigger
+https://genshin.honeyhunterworld.com//img/m_25060101_35.png
+Mob_name: Treasure Hoarders: Pugilist
+https://genshin.honeyhunterworld.com//img/m_25070101_35.png
+Mob_name: Treasure Hoarders: Crusher
+Chamber #3
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_21020201_35.png
+Mob_name: Blazing Axe Mitachurl
+https://genshin.honeyhunterworld.com//img/m_24010101_35.png
+Mob_name: Ruin Guard

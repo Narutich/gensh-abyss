@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'playground/css/floor.css' %}">
+</head>
+
+<body>
+    <!-- menu -->
+    <header>
+        <nav class="menu">
+            <div class="hamburger_menu">
+                <input id="menu_toggle" type="checkbox" />
+                <label class="menu_btn" for="menu_toggle">
+                    <span></span>
+                </label>
+                <ul class="menu_box">
+                    <li><a href="{%url 'preload' %}" class="menu_item">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            Home</a>
+                    </li>
+                    <li><a href="{%url 'preload' %}" class="menu_item">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            Home</a></li>
+                    <li><a href="{%url 'preload' %}" class="menu_item">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            Home</a></li>
+                    <li>
+                        <div>{{ nickname }}</div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <section class="content_mobs">
+        <div class="mobs_block">
+            {% if mobs.0.mob_half == '' %}
+            <div class="mobs_abyss_1-4">
+                <div class="Chamber1">
+                    {% for i in mobs %}
+                    {% if i.mob_chamber == "Chamber #1" %}
+                    <div class="mob">
+                        <div class="mob_icon"><img src="{{ i.mob_icon }}" alt="icon"></div>
+                        <div class="mob_name">{{ i.mob_name }}</div>
+                    </div>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+                <div class="Chamber2">
+                    {% for i in mobs %}
+                    {% if i.mob_chamber == "Chamber #2" %}
+                    <div class="mob">
+                        <div class="mob_icon"><img src="{{ i.mob_icon }}" alt="icon"></div>
+                        <div class="mob_name">{{ i.mob_name }}</div>
+                    </div>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+                <div class="Chamber3">
+                    {% for i in mobs %}
+                    {% if i.mob_chamber == "Chamber #3" %}
+                    <div class="mob">
+                        <div class="mob_icon"><img src="{{ i.mob_icon }}" alt="icon"></div>
+                        <div class="mob_name">{{ i.mob_name }}</div>
+                    </div>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% else %}
+            <div class="mobs_abyss_5-12">
+                <div class="Chamber1">
+                    <div class="half_1">
+                        <h2>First half</h2>
+                        {% for i in mobs %}
+                        {% if i.mob_chamber == "Chamber #1" %}
+                        {% if i.mob_half == "Monsters (First Half)" %}
+                        <div class="{{i.mob_half}}">
+                            <div class="mob">
+                                <div class="mob_icon"><img src="{{ i.mob_icon }}" alt="icon"></div>
+                                <div class="mob_name">{{ i.mob_name }}</div>
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+
+                    <div class="half_2">
+                        <h2>Second half</h2>
+                        {% for i in mobs %}
+                        {% if i.mob_chamber == "Chamber #1" %}
+                        {% if i.mob_half == "Monsters (Second Half)" %}
+                        <div class="{{i.mob_half}}">
+                            <div class="mob">
+                                <div class="mob_icon"><img src="{{ i.mob_icon }}" alt="icon"></div>
+                                <div class="mob_name">{{ i.mob_name }}</div>
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="Chamber2">
+                    <div class="half_1">
+                        <h2>First half</h2>
+                        {% for i in mobs %}
+                        {% if i.mob_chamber == "Chamber #2" %}
+                        {% if i.mob_half == "Monsters (First Half)" %}
+                        <div class="{{i.mob_half}}">
+                            <div class="mob">
+                                <div class="mob_icon"><img src="{{ i.mob_icon }}" alt="icon"></div>
+                                <div class="mob_name">{{ i.mob_name }}</div>
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+
+                    <div class="half_2">
+                        <h2>Second half</h2>
+                        {% for i in mobs %}
+                        {% if i.mob_chamber == "Chamber #1" %}
+                        {% if i.mob_half == "Monsters (Second Half)" %}
+                        <div class="{{i.mob_half}}">
+                            <div class="mob">
+                                <div class="mob_icon"><img src="{{ i.mob_icon }}" alt="icon"></div>
+                                <div class="mob_name">{{ i.mob_name }}</div>
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="Chamber3">
+                    <div class="half_1">
+                        <h2>First half</h2>
+                        {% for i in mobs %}
+                        {% if i.mob_chamber == "Chamber #3" %}
+                        {% if i.mob_half == "Monsters (First Half)" %}
+                        <div class="{{i.mob_half}}">
+                            <div class="mob">
+                                <div class="mob_icon"><img src="{{ i.mob_icon }}" alt="icon"></div>
+                                <div class="mob_name">{{ i.mob_name }}</div>
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+
+                    <div class="half_2">
+                        <h2>Second half</h2>
+                        {% for i in mobs %}
+                        {% if i.mob_chamber == "Chamber #1" %}
+                        {% if i.mob_half == "Monsters (Second Half)" %}
+                        <div class="{{i.mob_half}}">
+                            <div class="mob">
+                                <div class="mob_icon"><img src="{{ i.mob_icon }}" alt="icon"></div>
+                                <div class="mob_name">{{ i.mob_name }}</div>
+                            </div>
+                        </div>
+                        {% endif %}
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        </div>
+    </section>
+
+    <section class="content_characters">
+        <div class="characters">
+            {% for i in chars %}
+            <div class="character" {% if i.character_rarity == 4 %}
+                style="background: linear-gradient(transparent,#4d4280,#935db1);" {% else %}
+                style="background: linear-gradient(transparent,#83471b,#ab5c10);" {% endif %}>
+                <div class="character_icon">
+                    <img src="{{i.character_icon}}">
+                </div>
+                <div class="character_name">{{ i.character_name }}
+                </div>
+                <div class="character_element">
+                    {% if i.character_element == "Pyro" %}
+                    <img src="{% static 'playground/img/pyro.png' %}" alt="pyro">
+                    {% elif i.character_element == "Cryo" %}
+                    <img src="{% static 'playground/img/cryo.png' %}" alt="cryo">
+                    {% elif i.character_element == "Anemo" %}
+                    <img src="{% static 'playground/img/anemo.png' %}" alt="anemo">
+                    {% elif i.character_element == "Hydro" %}
+                    <img src="{% static 'playground/img/hydro.png' %}" alt="hydro">
+                    {% elif i.character_element == "Electro" %}
+                    <img src="{% static 'playground/img/electro.png' %}" alt="electro">
+                    {% elif i.character_element == "Geo" %}
+                    <img src="{% static 'playground/img/geo.png' %}" alt="geo">
+                    {% elif i.character_element == "Dendro" %}
+                    <img src="{% static 'playground/img/dendro.png' %}" alt="dendro">
+                    {% endif %}
+                </div>
+                <div class="character_type">{{ i.character_type }}</div>
+                <div class="character_tear">{{ i.character_tier }}</div>
+                <!--<div class="character_type">{{ i.character_type }}</div>-->
+            </div>
+            <!--<div>{{i.character_point}}</div>
+            <div>{{i.character_point_half_2}}</div>-->
+            {% endfor %}
+        </div>
+    </section>
+
+    <section class="content_commands">
+        <div class="command_block_left">
+            <h2>Half 1</h2>
+            <div class="command_left"></div>
+            <div class="command_left"></div>
+            <div class="command_left"></div>
+            <div class="command_left"></div>
+        </div>
+        <div class="command_block_right">
+            <h2>Half 2</h2>
+            <div class="command_right"></div>
+            <div class="command_right"></div>
+            <div class="command_right"></div>
+            <div class="command_right"></div>
+        </div>
+    </section>
+</body>
+
+</html

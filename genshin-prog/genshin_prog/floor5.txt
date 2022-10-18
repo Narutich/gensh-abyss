@@ -1,0 +1,45 @@
+Chamber #1
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_20010901_35.png
+Mob_name: Large Cryo Slime
+https://genshin.honeyhunterworld.com//img/m_21011001_35.png
+Mob_name: Electro Hilichurl Shooter
+https://genshin.honeyhunterworld.com//img/m_20010801_35.png
+Mob_name: Cryo Slime
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_22010101_35.png
+Mob_name: Pyro Abyss Mage
+Chamber #2
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_25030201_35.png
+Mob_name: Treasure Hoarders: Gravedigger
+https://genshin.honeyhunterworld.com//img/m_25030301_35.png
+Mob_name: Treasure Hoarders: Seaman
+https://genshin.honeyhunterworld.com//img/m_25010701_35.png
+Mob_name: Treasure Hoarders: Handyman
+https://genshin.honeyhunterworld.com//img/m_25010601_35.png
+Mob_name: Treasure Hoarders: Cryo Potioneer
+https://genshin.honeyhunterworld.com//img/m_25020201_35.png
+Mob_name: Treasure Hoarders: Marksman
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_25070101_35.png
+Mob_name: Treasure Hoarders: Crusher
+https://genshin.honeyhunterworld.com//img/m_25060101_35.png
+Mob_name: Treasure Hoarders: Pugilist
+https://genshin.honeyhunterworld.com//img/m_25030301_35.png
+Mob_name: Treasure Hoarders: Seaman
+https://genshin.honeyhunterworld.com//img/m_25010301_35.png
+Mob_name: Treasure Hoarders: Pyro Potioneer
+https://genshin.honeyhunterworld.com//img/m_25010201_35.png
+Mob_name: Treasure Hoarders: Scout
+Chamber #3
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_23030101_35.png
+Mob_name: Fatui Electro Cicin Mage
+https://genshin.honeyhunterworld.com//img/m_25010701_35.png
+Mob_name: Treasure Hoarders: Handyman
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_23020101_35.png
+Mob_name: Fatui Pyro Agent
+https://genshin.honeyhunterworld.com//img/m_25010501_35.png
+Mob_name: Treasure Hoarders: Electro Potioneer

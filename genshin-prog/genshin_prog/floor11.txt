@@ -1,0 +1,67 @@
+Chamber #1
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_25310301_35.png
+Mob_name: Eremite Daythunder
+https://genshin.honeyhunterworld.com//img/m_25210101_35.png
+Mob_name: Eremite Axe Vanguard
+https://genshin.honeyhunterworld.com//img/m_25210201_35.png
+Mob_name: Eremite Crossbow
+https://genshin.honeyhunterworld.com//img/m_25210301_35.png
+Mob_name: Eremite Ravenbeak Halberdier
+https://genshin.honeyhunterworld.com//img/m_25210401_35.png
+Mob_name: Eremite Linebreaker
+https://genshin.honeyhunterworld.com//img/m_25070101_35.png
+Mob_name: Treasure Hoarders: Crusher
+https://genshin.honeyhunterworld.com//img/m_25010301_35.png
+Mob_name: Treasure Hoarders: Pyro Potioneer
+https://genshin.honeyhunterworld.com//img/m_25010401_35.png
+Mob_name: Treasure Hoarders: Hydro Potioneer
+https://genshin.honeyhunterworld.com//img/m_25010501_35.png
+Mob_name: Treasure Hoarders: Electro Potioneer
+https://genshin.honeyhunterworld.com//img/m_25010601_35.png
+Mob_name: Treasure Hoarders: Cryo Potioneer
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_21020801_35.png
+Mob_name: Thunderhelm Lawachurl
+https://genshin.honeyhunterworld.com//img/m_21020101_35.png
+Mob_name: Wooden Shieldwall Mitachurl
+https://genshin.honeyhunterworld.com//img/m_21020201_35.png
+Mob_name: Blazing Axe Mitachurl
+https://genshin.honeyhunterworld.com//img/m_21020701_35.png
+Mob_name: Crackling Axe Mitachurl
+Chamber #2
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_505_35.png
+Mob_name: Hydro Mimic Finch
+https://genshin.honeyhunterworld.com//img/m_508_35.png
+Mob_name: Hydro Mimic Frog
+https://genshin.honeyhunterworld.com//img/m_502_35.png
+Mob_name: Hydro Mimic Boar
+https://genshin.honeyhunterworld.com//img/m_503_35.png
+Mob_name: Hydro Mimic Crane
+https://genshin.honeyhunterworld.com//img/m_504_35.png
+Mob_name: Hydro Mimic Crab
+https://genshin.honeyhunterworld.com//img/m_506_35.png
+Mob_name: Hydro Mimic Mallard
+https://genshin.honeyhunterworld.com//img/m_507_35.png
+Mob_name: Hydro Mimic Ferret
+https://genshin.honeyhunterworld.com//img/m_509_35.png
+Mob_name: Hydro Mimic Raptor
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_26040101_35.png
+Mob_name: Geovishap
+Chamber #3
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_23020101_35.png
+Mob_name: Fatui Pyro Agent
+https://genshin.honeyhunterworld.com//img/m_23010601_35.png
+Mob_name: Fatui Skirmisher – Pyroslinger Bracer
+https://genshin.honeyhunterworld.com//img/m_25310101_35.png
+Mob_name: Eremite Desert Clearwater
+https://genshin.honeyhunterworld.com//img/m_25310301_35.png
+Mob_name: Eremite Daythunder
+https://genshin.honeyhunterworld.com//img/m_25210201_35.png
+Mob_name: Eremite Crossbow
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_26020301_35.png
+Mob_name: Electro Regisvine

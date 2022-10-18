@@ -1,0 +1,49 @@
+Chamber #1
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_26120201_35.png
+Mob_name: Winged Cryoshroom
+https://genshin.honeyhunterworld.com//img/m_20010601_35.png
+Mob_name: Large Electro Slime
+https://genshin.honeyhunterworld.com//img/m_20010701_35.png
+Mob_name: Mutant Electro Slime
+https://genshin.honeyhunterworld.com//img/m_26090501_35.png
+Mob_name: Whirling Cryo Fungus
+https://genshin.honeyhunterworld.com//img/m_26090401_35.png
+Mob_name: Whirling Electro Fungus
+https://genshin.honeyhunterworld.com//img/m_26090201_35.png
+Mob_name: Floating Dendro Fungus
+https://genshin.honeyhunterworld.com//img/m_20010501_35.png
+Mob_name: Electro Slime
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_26050601_35.png
+Mob_name: Primordial Bathysmal Vishap
+Chamber #2
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_25100101_35.png
+Mob_name: Kairagi: Dancing Thunder
+https://genshin.honeyhunterworld.com//img/m_25100201_35.png
+Mob_name: Kairagi: Fiery Might
+https://genshin.honeyhunterworld.com//img/m_25210201_35.png
+Mob_name: Eremite Crossbow
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_22010401_35.png
+Mob_name: Electro Abyss Mage
+https://genshin.honeyhunterworld.com//img/m_21020801_35.png
+Mob_name: Thunderhelm Lawachurl
+Chamber #3
+Monsters (First Half)
+https://genshin.honeyhunterworld.com//img/m_25310101_35.png
+Mob_name: Eremite Desert Clearwater
+https://genshin.honeyhunterworld.com//img/m_25310201_35.png
+Mob_name: Eremite Sunfrost
+https://genshin.honeyhunterworld.com//img/m_25310301_35.png
+Mob_name: Eremite Daythunder
+https://genshin.honeyhunterworld.com//img/m_23010601_35.png
+Mob_name: Fatui Skirmisher – Pyroslinger Bracer
+https://genshin.honeyhunterworld.com//img/m_23010201_35.png
+Mob_name: Fatui Skirmisher – Hydrogunner Legionnaire
+Monsters (Second Half)
+https://genshin.honeyhunterworld.com//img/m_23050101_35.png
+Mob_name: Mirror Maiden
+https://genshin.honeyhunterworld.com//img/m_23030101_35.png
+Mob_name: Fatui Electro Cicin Mage

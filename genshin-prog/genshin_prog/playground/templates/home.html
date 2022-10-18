@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'playground/css/index.css' %}">
+</head>
+
+<body>
+    <!-- menu -->
+    <header>
+        <nav class="menu">
+            <div class="hamburger_menu">
+                <input id="menu_toggle" type="checkbox" />
+                <label class="menu_btn" for="menu_toggle">
+                    <span></span>
+                </label>
+                <ul class="menu_box">
+                    <li><a href="{%url 'preload' %}" class="menu_item">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            Home</a>
+                    </li>
+                    <li><a href="{%url 'preload' %}" class="menu_item">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            Home</a></li>
+                    <li><a href="{%url 'preload' %}" class="menu_item">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            Home</a></li>
+                    <li>
+                        <div>{{ nickname }}</div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+
+    {% for i in floors%}
+    <a href="floor/{{i}}"> Floor {{i}}</a>
+    {% endfor %}
+
+</body>
+
+</html>
